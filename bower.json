@@ -1,0 +1,19 @@
+{
+  "name": "zero-client",
+  "description": "Any empty project",
+  "main": "index.js",
+  "authors": [
+    "kengleng <keng-leng.ng@autodesk.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/kengleng/zero",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
